@@ -6,6 +6,8 @@ repo: upptime # Your GitHub repository name
 sites:
   - name: GWC
     url: https://genwealthconcepts.com
+  - name: The Money Multiplier
+    url: https://themoneymultiplier.com
 #  - name: Google
 #    url: https://www.google.com
 #  - name: Wikipedia
