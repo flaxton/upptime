@@ -4,6 +4,18 @@ repo: upptime # Your GitHub repository name
 
 # Add your sites here
 sites:
+  - name: cloud01
+    url: https://cloud01.infotechdesign.ws
+  - name: cloud02
+    url: http://cloud02.infotechdesign.ws:8090
+  - name: cloud03
+    url: http://vpn.blueridgecs.com/
+  - name: cloud04
+    url: https://cloud04.infotechdesign.ws
+  - name: cloud05
+    url: https://cloud05.infotechdesign.ws
+  - name: cloud06
+    url: https://cloud06.infotechdesign.ws
   - name: GWC
     url: https://genwealthconcepts.com
   - name: The Money Multiplier
