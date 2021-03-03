@@ -44,7 +44,7 @@ status-website:
   baseUrl: /upptime
   logoUrl: https://infotechdesign.org/wp-content/uploads/2020/10/itd_s5_logo-334x64-1.png
 #  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: InfoTechDesign LLC Uptime
+  name: Uptime / Status
   introTitle: "**InfoTechDesign LLC Service Status**"
   introMessage: Following are service status and other important information
   navbar:
