@@ -17,8 +17,8 @@ sites:
   - name: cloud06
     url: https://cloud06.infotechdesign.ws
   - name: GWC
-    url: $SECRET_SITE1
-#    url: https://genwealthconcepts.com
+#    url: $SECRET_SITE1
+    url: https://genwealthconcepts.com
   - name: TMM
     url: https://themoneymultiplier.com
 #  - name: Google
