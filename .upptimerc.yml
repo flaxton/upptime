@@ -5,7 +5,7 @@ repo: upptime # Your GitHub repository name
 # Add your sites here
 sites:
   - name: cloud01
-    url: http://cloud01.infotechdesign.ws
+    url: https://cloud01.infotechdesign.ws
   - name: cloud02
     url: http://cloud02.infotechdesign.ws:8090
   - name: cloud03
