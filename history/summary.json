@@ -4,7 +4,7 @@
     "url": "http://cloud01.infotechdesign.ws",
     "icon": "https://favicons.githubusercontent.com/cloud01.infotechdesign.ws",
     "slug": "cloud01",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -121,7 +121,7 @@
     "time": 230,
     "timeDay": 261,
     "timeWeek": 278,
-    "timeMonth": 299,
+    "timeMonth": 302,
     "timeYear": 230,
     "dailyMinutesDown": {}
   },
@@ -139,7 +139,7 @@
     "time": 360,
     "timeDay": 457,
     "timeWeek": 249,
-    "timeMonth": 495,
+    "timeMonth": 506,
     "timeYear": 360,
     "dailyMinutesDown": {}
   }
