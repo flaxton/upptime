@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 525,
     "timeDay": 97,
-    "timeWeek": 246,
+    "timeWeek": 190,
     "timeMonth": 164,
     "timeYear": 525,
     "dailyMinutesDown": {}
@@ -94,7 +94,7 @@
     "url": "https://cloud06.infotechdesign.ws",
     "icon": "https://favicons.githubusercontent.com/cloud06.infotechdesign.ws",
     "slug": "cloud06",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -120,7 +120,7 @@
     "uptimeYear": "100.00%",
     "time": 232,
     "timeDay": 125,
-    "timeWeek": 221,
+    "timeWeek": 229,
     "timeMonth": 181,
     "timeYear": 232,
     "dailyMinutesDown": {}
@@ -138,7 +138,7 @@
     "uptimeYear": "100.00%",
     "time": 451,
     "timeDay": 329,
-    "timeWeek": 220,
+    "timeWeek": 227,
     "timeMonth": 621,
     "timeYear": 451,
     "dailyMinutesDown": {}
