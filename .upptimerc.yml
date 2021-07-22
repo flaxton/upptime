@@ -8,8 +8,8 @@ sites:
     url: http://cloud01.infotechdesign.ws
   - name: cloud02
     url: http://cloud02.infotechdesign.ws:8090
-  - name: cloud03
-    url: http://vpn.blueridgecs.com/
+  - name: nextcloud
+    url: https://nextcloud.blueridgecs.com/nextcloud/index.php/login
   - name: cloud04
     url: http://cloud04.infotechdesign.ws
   - name: cloud05
