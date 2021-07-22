@@ -40,7 +40,7 @@
     "url": "http://vpn.blueridgecs.com/",
     "icon": "https://favicons.githubusercontent.com/vpn.blueridgecs.com",
     "slug": "cloud03",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -120,7 +120,7 @@
     "uptimeYear": "100.00%",
     "time": 228,
     "timeDay": 155,
-    "timeWeek": 178,
+    "timeWeek": 147,
     "timeMonth": 205,
     "timeYear": 228,
     "dailyMinutesDown": {}
@@ -138,7 +138,7 @@
     "uptimeYear": "100.00%",
     "time": 432,
     "timeDay": 147,
-    "timeWeek": 258,
+    "timeWeek": 226,
     "timeMonth": 338,
     "timeYear": 432,
     "dailyMinutesDown": {}
