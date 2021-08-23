@@ -40,7 +40,7 @@
     "url": "https://nextcloud.blueridgecs.com/nextcloud/index.php/login",
     "icon": "https://favicons.githubusercontent.com/nextcloud.blueridgecs.com",
     "slug": "nextcloud",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -121,7 +121,7 @@
     "time": 211,
     "timeDay": 124,
     "timeWeek": 176,
-    "timeMonth": 165,
+    "timeMonth": 166,
     "timeYear": 211,
     "dailyMinutesDown": {}
   },
@@ -139,7 +139,7 @@
     "time": 442,
     "timeDay": 2252,
     "timeWeek": 1148,
-    "timeMonth": 488,
+    "timeMonth": 492,
     "timeYear": 442,
     "dailyMinutesDown": {}
   }
