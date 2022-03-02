@@ -4,7 +4,7 @@
     "url": "http://cloud01.infotechdesign.ws",
     "icon": "https://favicons.githubusercontent.com/cloud01.infotechdesign.ws",
     "slug": "cloud01",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -14,7 +14,7 @@
     "timeDay": 101,
     "timeWeek": 134,
     "timeMonth": 137,
-    "timeYear": 512,
+    "timeYear": 503,
     "dailyMinutesDown": {}
   },
   {
@@ -22,7 +22,7 @@
     "url": "http://cloud02.infotechdesign.ws:8090",
     "icon": "https://favicons.githubusercontent.com/cloud02.infotechdesign.ws",
     "slug": "cloud02",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -40,7 +40,7 @@
     "url": "https://nextcloud.blueridgecs.com/nextcloud/index.php/login",
     "icon": "https://favicons.githubusercontent.com/nextcloud.blueridgecs.com",
     "slug": "nextcloud",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -104,7 +104,7 @@
     "timeDay": 513,
     "timeWeek": 296,
     "timeMonth": 319,
-    "timeYear": 401,
+    "timeYear": 402,
     "dailyMinutesDown": {}
   },
   {
@@ -119,10 +119,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 203,
-    "timeDay": 154,
+    "timeDay": 162,
     "timeWeek": 178,
     "timeMonth": 187,
-    "timeYear": 203,
+    "timeYear": 202,
     "dailyMinutesDown": {}
   },
   {
@@ -137,7 +137,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 372,
-    "timeDay": 148,
+    "timeDay": 157,
     "timeWeek": 165,
     "timeMonth": 170,
     "timeYear": 372,
