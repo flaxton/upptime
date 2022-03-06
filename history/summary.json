@@ -14,7 +14,7 @@
     "timeDay": 78,
     "timeWeek": 141,
     "timeMonth": 136,
-    "timeYear": 370,
+    "timeYear": 271,
     "dailyMinutesDown": {}
   },
   {
@@ -32,7 +32,7 @@
     "timeDay": 165,
     "timeWeek": 142,
     "timeMonth": 131,
-    "timeYear": 297,
+    "timeYear": 246,
     "dailyMinutesDown": {}
   },
   {
@@ -112,14 +112,14 @@
     "url": "https://genwealthconcepts.com",
     "icon": "https://favicons.githubusercontent.com/genwealthconcepts.com",
     "slug": "gwc",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 203,
-    "timeDay": 143,
+    "timeDay": 147,
     "timeWeek": 166,
     "timeMonth": 188,
     "timeYear": 203,
@@ -130,17 +130,17 @@
     "url": "https://themoneymultiplier.com",
     "icon": "https://favicons.githubusercontent.com/themoneymultiplier.com",
     "slug": "tmm",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 370,
-    "timeDay": 137,
-    "timeWeek": 161,
-    "timeMonth": 177,
-    "timeYear": 374,
+    "timeDay": 139,
+    "timeWeek": 160,
+    "timeMonth": 176,
+    "timeYear": 373,
     "dailyMinutesDown": {}
   }
 ]
