@@ -22,7 +22,7 @@
     "url": "http://cloud02.infotechdesign.ws:8090",
     "icon": "https://favicons.githubusercontent.com/cloud02.infotechdesign.ws",
     "slug": "cloud02",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -121,7 +121,7 @@
     "time": 201,
     "timeDay": 122,
     "timeWeek": 159,
-    "timeMonth": 196,
+    "timeMonth": 191,
     "timeYear": 198,
     "dailyMinutesDown": {}
   },
@@ -139,7 +139,7 @@
     "time": 358,
     "timeDay": 88,
     "timeWeek": 157,
-    "timeMonth": 197,
+    "timeMonth": 192,
     "timeYear": 356,
     "dailyMinutesDown": {}
   }
