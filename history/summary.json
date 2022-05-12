@@ -130,17 +130,17 @@
     "url": "https://themoneymultiplier.com",
     "icon": "https://favicons.githubusercontent.com/themoneymultiplier.com",
     "slug": "tmm",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 351,
-    "timeDay": 258,
-    "timeWeek": 239,
-    "timeMonth": 187,
-    "timeYear": 338,
+    "time": 352,
+    "timeDay": 1116,
+    "timeWeek": 456,
+    "timeMonth": 227,
+    "timeYear": 340,
     "dailyMinutesDown": {}
   }
 ]
